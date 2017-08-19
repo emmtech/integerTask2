@@ -1,0 +1,30 @@
+body{
+	background: red;
+}
+.bigWrapper{
+	width: 600px;
+	background: #FFF;
+	margin: 30px auto;
+}
+.wrapper{
+	width: 300px;
+	margin: 10px auto;
+}
+header{
+}
+
+#myVar{
+	height: 30px;
+	width: 300px;
+}
+.btn{
+	width: 200px;
+	height: 40px;
+}
+#pr{
+	color:#FFF;
+	background: #000;
+}
+#cal{
+	background: #DDD;
+}
